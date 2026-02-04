@@ -1,4 +1,11 @@
 <?php
+session_start();
+// Proteksi: wajib login
+if (!isset($_SESSION['user'])) {
+    header('Location: login.php');
+    exit;
+}
+
 // Handler Form Kontak Sederhana
 $successMsg = null;
 $errorMsg = null;
@@ -38,6 +45,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 <li><a href="#tentang">Tentang</a></li>
                 <li><a href="#proyek">Proyek</a></li>
                 <li><a href="#kontak">Kontak</a></li>
+                <li><a class="btn secondary" href="logout.php">Logout</a></li>
             </ul>
         </nav>
     </div>
