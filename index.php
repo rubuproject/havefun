@@ -45,6 +45,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 <li><a href="#tentang">Tentang</a></li>
                 <li><a href="#proyek">Proyek</a></li>
                 <li><a href="#kontak">Kontak</a></li>
+                <li><a href="sales.php">Penjualan</a></li>
                 <li><a class="btn secondary" href="logout.php">Logout</a></li>
             </ul>
         </nav>
