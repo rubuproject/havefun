@@ -1,0 +1,22 @@
+# PHP Session Files
+session/
+*.session
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
