@@ -131,4 +131,4 @@ Created as a professional portfolio template for developers and students.
 
 ---
 
- with basic security measures. For production use, ensure HTTPS is enabledcons
+ with basic security measures. For production use, ensu
