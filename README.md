@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/gist/your-path/cart-anim.svg" width="120" />
   <h3>Tugas Belajar web</h3>
-  <p>Membangun sistem autentikasi sederhana dan showcase portfolio .</p>
+  <p>Membangun web  portfolio .</p>
 </div>
 
 ---
@@ -21,7 +21,7 @@ Berikut adalah identitas pengembang utama proyek ini:
 ---
 
 ## 💻 Tentang Proyek
-Proyek ini merupakan integrasi antara **Sistem Login Keamanan** dan **Halaman Portofolio**. Dibuat sebagai latihan dasar implementasi pemrograman web menggunakan PHP dan Manajemen Database.
+Proyek ini merupakan integrasi antara **Sistem Login Keamanan** dan **Halaman Portofolio**. Dibuat sebagai latihan dasar implementasi pemrograman web menggunakan PHP 
 
 
 
