@@ -84,10 +84,7 @@ Etalase karya digital tim mahasiswa Informatika.
 | **Phase 3** | Desain UI Dashboard & Portfolio | 🔄 |
 | **Phase 4** | Final Testing & Bug Fix | ⏳ |
 
-
-
 ---
-
 ## 📂 Struktur Direktori Modern
 ```bash
 .
