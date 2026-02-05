@@ -57,9 +57,6 @@ Berikut adalah visualisasi perkembangan fitur kami:
 `Portfolio API` ![60%](https://progress-bar.dev/60/?title=Development&color=36BCF7)
 
 
-
----
-
 ## 📁 Struktur Blueprint (Deep Dive)
 ```mermaidgraph LR subgraph Frontend
     A[index.php] --> B[Assets/CSS]
