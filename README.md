@@ -36,13 +36,13 @@ Proyek ini merupakan integrasi antara **Sistem Login Keamanan** dan **Halaman Po
 ## 🛠️ Teknologi yang Digunakan
 * **Bahasa:** PHP 8.x
   
-* **Styling:** CSS3 & Bootstrap 5
+* **Styling:** CSS3 
 * **Ikon & Animasi:** FontAwesome & SVG Animations
 
 ---
 
 ## 📁 Struktur Folder Dasar
-```text
+``text
 project-web/
 ├── assets/         # CSS, JS, dan Gambar
 ├── config/         # Koneksi Database
