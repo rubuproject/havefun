@@ -17,12 +17,11 @@
 Sistem ini menggunakan integrasi database relasional dengan lapisan keamanan berlapis.
 
 
-
 ### 💎 Core Experience
 * **🔒 Shield Protocol:** Enkripsi password menggunakan `Argon2` atau `Bcrypt` 
 * **🛰️ Real-time Analytics:** Dashboard interaktif yang memantau aktivitas user secara langsung.
 * **🎨 Glass-UI Design:** 
-* **🚀 Optimized Engine:** Kecepatan akses 
+* **🚀 Optimized Engine:** Kecepata
 
 ---
 
