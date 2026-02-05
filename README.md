@@ -56,11 +56,51 @@ Berikut adalah visualisasi perkembangan web kami
 
 
 ## 📁 Struktur Blueprint (Deep Dive)
-    A[index.php] --> B[Assets/CSS]
+  \  A[index.php] --> B[Assets/CSS]
     end
     subgraph Backend_Logic
     C[Core/Auth.php] --> D[Database/MySQL]
     E[Core/Session.php] --> C
     end
     
+  \  erDiagram
+    USERS ||--o{ PORTFOLIO_ITEMS : creates
+    USERS ||--o{ LOGIN_ATTEMPTS : has
+    USERS ||--o{ SESSIONS : maintains
     
+   \ USERS {
+        int id PK
+        string name
+        string email UK
+        string password_hash
+        string role
+        datetime created_at
+        datetime last_login
+    }
+    
+    PORTFOLIO_ITEMS {
+        int id PK
+        int user_id FK
+        string title
+        text description
+        string category
+        string image_url
+        datetime created_at
+        boolean is_published
+    }
+    
+    LOGIN_ATTEMPTS {
+        int id PK
+        int user_id FK
+        string ip_address
+        datetime attempt_time
+        boolean success
+    }
+    
+    SESSIONS {
+        string session_id PK
+        int user_id FK
+        datetime created_at
+        datetime expires_at
+        string user_agent
+    }
