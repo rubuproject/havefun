@@ -125,9 +125,6 @@ Edit `portfolio.php` to add your own:
 
 s for personal or com
 
-## 👨‍💻 Author
-
-Created as a professional portfolio template for developers and students.
 
 ---
 
