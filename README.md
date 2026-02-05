@@ -36,7 +36,7 @@ Sistem ini menggunakan integrasi database relasional dengan lapisan keamanan ber
 ---
 
 ## 👥 Tim Kreatif (Rubu & Friends)
-Kami adalah mahasiswa Informatika yang berdedikasi pada *clean code* dan *modern design*.
+Kami adalah mahasiswa Informatika yang berdedikasi pada 
 
 <div align="center">
   <table border="0">
@@ -51,8 +51,6 @@ Kami adalah mahasiswa Informatika yang berdedikasi pada *clean code* dan *modern
     </tr>
   </table>
 </div>
-
----
 
 ## 📉 Project Roadmap (2026)
 Berikut adalah visualisasi perkembangan fitur kami:
