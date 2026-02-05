@@ -35,7 +35,7 @@ Proyek ini merupakan integrasi antara **Sistem Login Keamanan** dan **Halaman Po
 
 ## 🛠️ Teknologi yang Digunakan
 * **Bahasa:** PHP 8.x
-* **Database:** MySQL
+  
 * **Styling:** CSS3 & Bootstrap 5
 * **Ikon & Animasi:** FontAwesome & SVG Animations
 
