@@ -1,63 +1,100 @@
-# 🚀 Dashboard Login & Portfolio System
-> **Proyek Informatika Semester 1** • Kolaborasi Tim Rubu
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gist/your-path/cart-anim.svg" width="150" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Web%20Dashboard%20&%20Portfolio&fontSize=50&animation=fadeIn" width="100%" />
+
   <br>
+
+  <img src="https://raw.githubusercontent.com/gist/your-path/cart-anim.svg" width="80" />
+
+  ### ⚡ "Sinergi Informatika: Autentikasi Modern & Showcase Kreatif"
+  *Tugas Besar Semester 1 - Kelompok Rubu*
+
   
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+    <img src="https://img.shields.io/badge/Security-High-blue.svg" />
+    <img src="https://img.shields.io/badge/Status-In%20Development-orange.svg" />
+  </p>
 </div>
 
 ---
 
-## 💎 Profil Pengembang
-<details>
-<summary><b>Klik untuk melihat detail pengembang 👤</b></summary>
-<br>
+## 💎 Snapshot Proyek
+Proyek ini menggabungkan dua fungsionalitas utama dalam satu ekosistem web yang *seamless*.
 
-| Nama Lengkap | Kelas | Peran |
-| :--- | :--- | :--- |
-| **Rubu** | Informatika | Lead Developer |
-| **Kawan-Kawan** | Informatika | UI/UX & Database |
+### 🔑 Autentikasi (Backend)
+Sistem login yang dibangun dengan keamanan tingkat lanjut untuk mencegah akses ilegal.
+* **Encryption:** `password_hash()` Bcrypt.
+* **Session Management:** Proteksi akses halaman dashboard.
+* **Validation:** Anti-SQL Injection menggunakan PDO.
 
-**Status Pendidikan:**
-- 🏫 Institusi: Teknik Informatika
-- 🎓 Semester: 1 (Ganjil)
-</details>
-
----
-
-## 🛠️ Tech Stack & Progress
-Proyek ini dibangun dengan teknologi web terkini untuk memastikan performa maksimal.
-
-- **Backend:** PHP 8.2 (Secure PDO)
-- **Frontend:** HTML5, CSS3, JavaScript
-- **Framework:** Bootstrap 5.3 (Mobile Ready)
-
-**Development Progress:**
-`Login System` ![Progress](https://geps.dev/progress/100)
-`Dashboard UI` ![Progress](https://geps.dev/progress/85)
-`Portfolio Page` ![Progress](https://geps.dev/progress/70)
-`Database Security` ![Progress](https://geps.dev/progress/90)
+### 🎨 Portofolio (Frontend)
+Etalase karya digital tim mahasiswa Informatika.
+* **Glassmorphism:** UI transparan ala macOS.
+* **Mobile First:** Akses lancar dari smartphone manapun.
+* **Dynamic Content:** Data ditarik langsung dari database MySQL.
 
 ---
 
-## 🕹️ Fitur Interaktif
-
-
-[Image of user authentication flow diagram]
-
-
-1. **Gatekeeper Security:** Sistem login dengan enkripsi password searah.
-2. **Glassmorphism UI:** Tampilan dashboard modern dengan efek kaca transparan.
-3. **Dynamic Portfolio:** Menampilkan karya kawan-kawan secara otomatis dari database.
-4. **Auto-Response:** Notifikasi interaktif saat login berhasil atau gagal.
+## 👥 Tim Pengembang
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <img src="https://ui-avatars.com/api/?name=Rubu&background=random&size=100" width="100" style="border-radius:50%" />
+      <br>
+      <b>Rubu</b>
+      <br>
+      <small>Lead Developer</small>
+    </td>
+    <td align="center" width="200">
+      <img src="https://ui-avatars.com/api/?name=Kawan+Kawan&background=random&size=100" width="100" style="border-radius:50%" />
+      <br>
+      <b>Kawan-Kawan</b>
+      <br>
+      <small>UI/UX & DB Designer</small>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📂 Arsitektur Proyek
-Dikelola dengan struktur folder yang bersih (Clean Architecture):
+## 🛠️ Stack Teknologi
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Backend</b></td>
+      <td align="center"><b>Frontend</b></td>
+      <td align="center"><b>Tools</b></td>
+    </tr>
+    <tr>
+      <td><img src="https://skillicons.dev/icons?i=php,mysql" /></td>
+      <td><img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" /></td>
+      <td><img src="https://skillicons.dev/icons?i=vscode,xampp,git" /></td>
+    </tr>
+  </table>
+</div>
 
-```bash├── 📁 admin/         # Control Panel├── 📁 assets/         # 🎨 CSS, JS, & Images├── 📁 core/           # 🧠 Logic & Database Connection├── 📁 includes/       # 🧩 Reusable Components (Navbar, Footer)├── 📄 index.php       # 🏠 Landing Page (Portfolio)└── 📄 auth_login.php  # 🔐 Security Process
+---
+
+## 📊 Roadmap Pengerjaan
+| Tahapan | Deskripsi | Status |
+| :--- | :--- | :---: |
+| **Phase 1** | Perancangan Database & ERD | ✅ |
+| **Phase 2** | Integrasi Login & Session | 🔄 |
+| **Phase 3** | Desain UI Dashboard & Portfolio | 🔄 |
+| **Phase 4** | Final Testing & Bug Fix | ⏳ |
+
+
+
+---
+
+## 📂 Struktur Direktori Modern
+```bash
+.
+├── 📂 core/                # 🧠 Business Logic (Functions, Connection)
+├── 📂 public/              # 🎨 Client Side (Assets, Images)
+├── 📂 views/               # 🧩 Template Components
+│   ├── 📄 login.view.php
+│   └── 📄 dashboard.view.php
+├── 📄 config.php           # ⚙️ App Configuration
+└── 📄 index.php            # 🚪 Main Entrance
