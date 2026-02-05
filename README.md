@@ -50,7 +50,7 @@ Kami adalah mahasiswa Informatika yang berdedikasi pada
 </div>
 
 ## 📉 Project Roadmap (2026)
-Berikut adalah visualisasi perkembangan fitur kami:
+Berikut adalah visualisasi perkembangan web kami
 
 `Core Engine` ![100%](https://progress-bar.dev/100/?title=Done&color=36BCF7)
 `Security Layer` ![85%](https://progress-bar.dev/85/?title=Testing&color=36BCF7)
