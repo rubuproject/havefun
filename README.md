@@ -23,8 +23,6 @@ Sistem ini menggunakan integrasi database relasional dengan lapisan keamanan ber
 * **🎨 Glass-UI Design:** 
 * **🚀 Optimized Engine:**
 
----
-
 ## 🛠️ Stack Teknologi (Elite Level)
 <div align="center">
   <img src="https://skillicons.dev/icons?i=php,mysql,bootstrap,js,jquery,figma,vscode,git&perline=8" />
