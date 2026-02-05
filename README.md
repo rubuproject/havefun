@@ -78,7 +78,7 @@ Berikut adalah visualisasi perkembangan web kami
         datetime last_login
     }
     
-    PORTFOLIO_ITEMS {
+   PORTFOLIO_ITEMS {
         int id PK
         int user_id FK
         string title
@@ -89,7 +89,7 @@ Berikut adalah visualisasi perkembangan web kami
         boolean is_published
     }
     
-    LOGIN_ATTEMPTS {
+  LOGIN_ATTEMPTS {
         int id PK
         int user_id FK
         string ip_address
