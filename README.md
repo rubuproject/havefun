@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/render?type=soft&color=36BCF7&height=250&section=header&text=ULTIMATE%20DASHBOARD&fontSize=70&animation=fadeIn&fontAlignY=40" width="100%" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Advanced+PHP+E-Commerce;Secure+Identity+Management;Modern+Portfolio+Showcase;Built+by+Informatika+Creative+Team" alt="Typing SVG" />
-
   <p align="center">
     <a href="#-get-started">
       <img src="https://img.shields.io/badge/Documentation-Check-36BCF7?style=for-the-badge&logo=gitbook&logoColor=white" />
