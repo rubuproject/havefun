@@ -1,97 +1,57 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Web%20Dashboard%20&%20Portfolio&fontSize=50&animation=fadeIn" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=PROJECT+INFORMATIKA+2026;LOGIN+SYSTEM+WEB;PORTFOLIO+COLLABORATION;BUILT+BY+RUBU+AND+FRIENDS" alt="Typing SVG" />
 
   <br>
 
-  <img src="https://raw.githubusercontent.com/gist/your-path/cart-anim.svg" width="80" />
-
-  ### ⚡ "Sinergi Informatika: Autentikasi Modern & Showcase Kreatif"
-  *Tugas Besar Semester 1 - Kelompok Rubu*
-
-  
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
-    <img src="https://img.shields.io/badge/Security-High-blue.svg" />
-    <img src="https://img.shields.io/badge/Status-In%20Development-orange.svg" />
-  </p>
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=36BCF7&height=180&section=header&text=E-COMMERCE%20DASHBOARD&fontSize=40&animation=fadeIn" width="100%" />
 </div>
 
 ---
 
-## 💎 Snapshot Proyek
-Proyek ini menggabungkan dua fungsionalitas utama dalam satu ekosistem web 
-
-### 🔑 Autentikasi (Backend)
-Sistem login yang dibangun dengan keamanan tingkat lanjut untuk mencegah akses ilegal.
-* **Encryption:** `password_hash()` Bcrypt.
-* **Session Management:** Proteksi akses halaman dashboard.
-* **Validation:** Anti-SQL Injection 
-
-### 🎨 Portofolio (Frontend)
-Etalase karya digital tim mahasiswa Informatika.
-* **Glassmorphism:** UI transparan ala macOS.
-* **Mobile First:** Akses lancar dari smartphone manapun.
-* **Dynamic Content:** Data ditarik langsung dari database MySQL.
-
----
-
-## 👥 Tim Pengembang
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      <img src="https://ui-avatars.com/api/?name=Rubu&background=random&size=100" width="100" style="border-radius:50%" />
-      <br>
-      <b>Rubu</b>
-      <br>
-      <small>Lead Developer</small>
-    </td>
-    <td align="center" width="200">
-      <img src="https://ui-avatars.com/api/?name=Kawan+Kawan&background=random&size=100" width="100" style="border-radius:50%" />
-      <br>
-      <b>Kawan-Kawan</b>
-      <br>
-      <small>UI/UX & DB Designer</small>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛠️ Stack Teknologi
+## ⚡ Quick Status
 <div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>Backend</b></td>
-      <td align="center"><b>Frontend</b></td>
-      <td align="center"><b>Tools</b></td>
-    </tr>
-    <tr>
-      <td><img src="https://skillicons.dev/icons?i=php,mysql" /></td>
-      <td><img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" /></td>
-      <td><img src="https://skillicons.dev/icons?i=vscode,xampp,git" /></td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/PHP-8.2-blue?style=for-the-badge&logo=php" />
+  <img src="https://img.shields.io/badge/Security-Lvl_99-red?style=for-the-badge&logo=fortinet" />
+  <img src="https://img.shields.io/badge/UI/UX-Glassmorphism-purple?style=for-the-badge&logo=figma" />
 </div>
 
 ---
 
-## 📊 Roadmap Pengerjaan
-| Tahapan | Deskripsi | Status |
-| :--- | :--- | :---: |
-| **Phase 1** | Perancangan Database & ERD | ✅ |
-| **Phase 2** | Integrasi Login & Session | 🔄 |
-| **Phase 3** | Desain UI Dashboard & Portfolio | 🔄 |
-| **Phase 4** | Final Testing & Bug Fix | ⏳ |
+## 📊 Project Insight
+Proyek ini mengintegrasikan sistem keamanan PHP dengan tampilan portofolio modern.
+
+
+
+[Image of user authentication flow diagram]
+
+
+### 🛰️ Fitur Unggulan (Animated List)
+- 🔒 **Secure Auth:** Login dengan session timeout & CSRF Protection.
+- 🚀 **Turbo Load:** Optimasi database untuk loading dashboard secepat kilat.
+- 💎 **Glass UI:** Tampilan transparan yang elegan dan responsif.
+- 📦 **Smart Cart:** Animasi keranjang belanja yang interaktif (AJAX Based).
 
 ---
-## 📂 Struktur Direktori Modern
+
+## 🤝 Team Synergy
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rubu&theme=onedark&column=3&margin-w=15&no-bg=true" alt="Trophy" />
+</p>
+
+| Developer | Responsibility | Skill |
+| :--- | :--- | :---: |
+| **Rubu** | Core Backend & Logic | <img src="https://skillicons.dev/icons?i=php,mysql" height="25" /> |
+| **Kawan-Kawan** | Frontend & UI Design | <img src="https://skillicons.dev/icons?i=html,css,js" height="25" /> |
+
+---
+
+## 🛠️ Workflow Pengerjaan
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=spring&text=Coding%20Phase&width=800&height=100" width="100%" />
+</p>
+
 ```bash
-.
-├── 📂 core/                # 🧠 Business Logic (Functions, Connection)
-├── 📂 public/              # 🎨 Client Side (Assets, Images)
-├── 📂 views/               # 🧩 Template Components
-│   ├── 📄 login.view.php
-│   └── 📄 dashboard.view.php
-├── 📄 config.php           # ⚙️ App Configuration
-└── 📄 index.php            # 🚪 Main Entrance
+# 📅 Milestone 2026
+1. 🗄️ Database Normalization (Done)
+2. 🔑 Secure Login Logic (In Progress)
+3. 🎨 Dashboard Interaction (Coming Soon)
