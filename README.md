@@ -131,4 +131,3 @@ Created as a professional portfolio template for developers and students.
 
 ---
 
- with basic security meas
