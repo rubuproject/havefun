@@ -20,7 +20,7 @@ A minimalist, elegant portfolio website built with **PHP**, featuring a secure s
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/php-portfolio.git
+git clone https://github.com/rubuproject/php-portfolio.git
 cd php-portfolio
 ```
 
