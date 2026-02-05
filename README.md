@@ -131,4 +131,4 @@ Created as a professional portfolio template for developers and students.
 
 ---
 
-**Ready to deploy?** This project is production-ready with basic security measures. For production use, ensure HTTPS is enabled and consider adding CSRF tokens.
+ with basic security measures. For production use, ensure HTTPS is enabled and consider adding CSRF tokens.
