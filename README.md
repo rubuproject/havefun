@@ -1,51 +1,69 @@
-# 🚀 Web Login Dashboard & Portfolio
+# 🚀 Dashboard Login & Portfolio System
+> **Proyek Informatika Semester 1** • Kolaborasi Tim Rubu
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gist/your-path/cart-anim.svg" width="120" />
-  <h3>Tugas Belajar web</h3>
-  <p>Membangun web  portfolio .</p>
+  <img src="https://raw.githubusercontent.com/gist/your-path/cart-anim.svg" width="150" />
+  <br>
+  
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 </div>
 
 ---
 
-## 📝 Profil Pengembang
-Berikut adalah identitas pengembang utama proyek ini:
+## 💎 Profil Pengembang
+<details>
+<summary><b>Klik untuk melihat detail pengembang 👤</b></summary>
+<br>
 
-| Detail | Informasi |
-| :--- | :--- |
-| **Nama** | Rubu |
-| **Kelas** | Informatika |
-| **Semester** | 1 (Satu) |
-| **Status** | Proyek Kolaborasi (Bersama Kawan-Kawan) |
+| Nama Lengkap | Kelas | Peran |
+| :--- | :--- | :--- |
+| **Rubu** | Informatika | Lead Developer |
+| **Kawan-Kawan** | Informatika | UI/UX & Database |
 
----
-
-## 💻 Tentang Proyek
-Proyek ini merupakan integrasi antara **Sistem Login Keamanan** dan **Halaman Portofolio**. Dibuat sebagai latihan dasar implementasi pemrograman web menggunakan PHP 
-
-
-
-### Fitur Utama:
-* **Secure Login:** Autentikasi user untuk masuk ke sistem dashboard.
-* **User Dashboard:** Halaman khusus setelah login yang menampilkan ringkasan profil.
-* **Portfolio Showcase:** Halaman untuk menampilkan karya dan skill kawan-kawan tim.
-* **Responsive Design:** Tampilan tetap rapi saat dibuka di HP (Mobile) maupun Desktop.
+**Status Pendidikan:**
+- 🏫 Institusi: Teknik Informatika
+- 🎓 Semester: 1 (Ganjil)
+</details>
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
-* **Bahasa:** PHP 8.x
-  
-* **Styling:** CSS3 
-* **Ikon & Animasi:** FontAwesome & SVG Animations
+## 🛠️ Tech Stack & Progress
+Proyek ini dibangun dengan teknologi web terkini untuk memastikan performa maksimal.
+
+- **Backend:** PHP 8.2 (Secure PDO)
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Framework:** Bootstrap 5.3 (Mobile Ready)
+
+**Development Progress:**
+`Login System` ![Progress](https://geps.dev/progress/100)
+`Dashboard UI` ![Progress](https://geps.dev/progress/85)
+`Portfolio Page` ![Progress](https://geps.dev/progress/70)
+`Database Security` ![Progress](https://geps.dev/progress/90)
 
 ---
 
-## 📁 Struktur Folder Dasar
-``text
-project-web/
-├── assets/         # CSS, JS, dan Gambar
-├── config/         # Koneksi Database
-├── dashboard/      # Halaman utama user
-├── login.php       # Halaman login
-└── index.php       # Halaman portofolio (Landing Page)
+## 🕹️ Fitur Interaktif
+
+
+[Image of user authentication flow diagram]
+
+
+1. **Gatekeeper Security:** Sistem login dengan enkripsi password searah.
+2. **Glassmorphism UI:** Tampilan dashboard modern dengan efek kaca transparan.
+3. **Dynamic Portfolio:** Menampilkan karya kawan-kawan secara otomatis dari database.
+4. **Auto-Response:** Notifikasi interaktif saat login berhasil atau gagal.
+
+---
+
+## 📂 Arsitektur Proyek
+Dikelola dengan struktur folder yang bersih (Clean Architecture):
+
+```bash
+├── 📁 admin/          # Control Panel
+├── 📁 assets/         # 🎨 CSS, JS, & Images
+├── 📁 core/           # 🧠 Logic & Database Connection
+├── 📁 includes/       # 🧩 Reusable Components (Navbar, Footer)
+├── 📄 index.php       # 🏠 Landing Page (Portfolio)
+└── 📄 auth_login.php  # 🔐 Security Process
