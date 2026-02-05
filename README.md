@@ -131,4 +131,4 @@ Created as a professional portfolio template for developers and students.
 
 ---
 
- with basic security measures. Fo
+ with basic security meas
