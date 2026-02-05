@@ -123,7 +123,7 @@ Edit `portfolio.php` to add your own:
 
 ## 📝 License
 
-MIT License - feel free to use this for personal or commercial projects.
+s for personal or commercial projects.
 
 ## 👨‍💻 Author
 
