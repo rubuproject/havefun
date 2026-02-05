@@ -24,7 +24,7 @@ Sistem ini menggunakan integrasi database relasional dengan lapisan keamanan ber
 * **🔒 Shield Protocol:** Enkripsi password menggunakan `Argon2` atau `Bcrypt` dengan proteksi Session Hijacking.
 * **🛰️ Real-time Analytics:** Dashboard interaktif yang memantau aktivitas user secara langsung.
 * **🎨 Glass-UI Design:** 
-* **🚀 Optimized Engine:** Kecepatan akses database < 100ms menggunakan query teroptimasi.
+* **🚀 Optimized Engine:** Kecepatan akses database 
 
 ---
 
