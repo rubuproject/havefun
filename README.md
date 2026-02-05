@@ -60,6 +60,4 @@ Proyek ini dibangun dengan teknologi web terkini untuk memastikan performa maksi
 ## 📂 Arsitektur Proyek
 Dikelola dengan struktur folder yang bersih (Clean Architecture):
 
-```bash├── 📁 admin/         # Control Panel├── 📁 assets/         # 🎨 CSS, JS, & Images├── 📁 core/           # 🧠 Logic & Database Connection├── 📁 includes/       # 🧩 Reusable Components (Navbar, Footer)
-├── 📄 index.php       # 🏠 Landing Page (Portfolio)
-└── 📄 auth_login.php  # 🔐 Security Process
+```bash├── 📁 admin/         # Control Panel├── 📁 assets/         # 🎨 CSS, JS, & Images├── 📁 core/           # 🧠 Logic & Database Connection├── 📁 includes/       # 🧩 Reusable Components (Navbar, Footer)├── 📄 index.php       # 🏠 Landing Page (Portfolio)└── 📄 auth_login.php  # 🔐 Security Process
