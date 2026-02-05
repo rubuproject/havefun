@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="refresh" content="0; url=index.php">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mengarahkan ke Portofolio</title>
+  <script>
+    // Fallback JS redirect jika meta refresh diblok
+    (function(){
+      if (location.pathname.endsWith('index.html') || location.pathname.endsWith('/')) {
+        location.replace('index.php');
+      }
+    })();
+  </script>
+  <noscript>
+    <meta http-equiv="refresh" content="0; url=index.php">
+  </noscript>
+</head>
+<body>
+  <p>Menuju <a href="index.php">Portofolio</a>...</p>
+</body>
+</html>
