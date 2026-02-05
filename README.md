@@ -71,5 +71,5 @@ Berikut adalah visualisasi perkembangan fitur kami:
     C[Core/Auth.php] --> D[Database/MySQL]
     E[Core/Session.php] --> C
     end
-    A -- Request --> C
-    C -- Response --> A
+    
+    
