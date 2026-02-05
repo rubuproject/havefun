@@ -26,7 +26,7 @@ Proyek ini menggabungkan dua fungsionalitas utama dalam satu ekosistem web
 Sistem login yang dibangun dengan keamanan tingkat lanjut untuk mencegah akses ilegal.
 * **Encryption:** `password_hash()` Bcrypt.
 * **Session Management:** Proteksi akses halaman dashboard.
-* **Validation:** Anti-SQL Injection menggunakan PDO.
+* **Validation:** Anti-SQL Injection 
 
 ### 🎨 Portofolio (Frontend)
 Etalase karya digital tim mahasiswa Informatika.
