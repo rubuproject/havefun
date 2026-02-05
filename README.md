@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/gist/your-path/cart-anim.svg" width="120" />
   <h3>Tugas Belajar web</h3>
-  <p>Membangun sistem autentikasi sederhana dan showcase portfolio yang responsif.</p>
+  <p>Membangun sistem autentikasi sederhana dan showcase portfolio .</p>
 </div>
 
 ---
