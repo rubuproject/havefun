@@ -1,57 +1,77 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=PROJECT+INFORMATIKA+2026;LOGIN+SYSTEM+WEB;PORTFOLIO+COLLABORATION;BUILT+BY+RUBU+AND+FRIENDS" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=36BCF7&height=250&section=header&text=ULTIMATE%20DASHBOARD&fontSize=70&animation=fadeIn&fontAlignY=40" width="100%" />
 
-  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Advanced+PHP+E-Commerce;Secure+Identity+Management;Modern+Portfolio+Showcase;Built+by+Informatika+Creative+Team" alt="Typing SVG" />
 
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=36BCF7&height=180&section=header&text=E-COMMERCE%20DASHBOARD&fontSize=40&animation=fadeIn" width="100%" />
+  <p align="center">
+    <a href="#-get-started">
+      <img src="https://img.shields.io/badge/Documentation-Check-36BCF7?style=for-the-badge&logo=gitbook&logoColor=white" />
+    </a>
+    <a href="#-tim-pengembang">
+      <img src="https://img.shields.io/badge/Team-Informatika-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
 </div>
 
 ---
 
-## ⚡ Quick Status
+## 🌌 Arsitektur Sistem & Alur Kerja
+Sistem ini menggunakan integrasi database relasional dengan lapisan keamanan berlapis.
+
+
+
+### 💎 Core Experience
+* **🔒 Shield Protocol:** Enkripsi password menggunakan `Argon2` atau `Bcrypt` dengan proteksi Session Hijacking.
+* **🛰️ Real-time Analytics:** Dashboard interaktif yang memantau aktivitas user secara langsung.
+* **🎨 Glass-UI Design:** Antarmuka berbasis *Blur & Transparency* untuk estetika premium.
+* **🚀 Optimized Engine:** Kecepatan akses database < 100ms menggunakan query teroptimasi.
+
+---
+
+## 🛠️ Stack Teknologi (Elite Level)
 <div align="center">
-  <img src="https://img.shields.io/badge/PHP-8.2-blue?style=for-the-badge&logo=php" />
-  <img src="https://img.shields.io/badge/Security-Lvl_99-red?style=for-the-badge&logo=fortinet" />
-  <img src="https://img.shields.io/badge/UI/UX-Glassmorphism-purple?style=for-the-badge&logo=figma" />
+  <img src="https://skillicons.dev/icons?i=php,mysql,bootstrap,js,jquery,figma,vscode,git&perline=8" />
 </div>
 
 ---
 
-## 📊 Project Insight
-Proyek ini mengintegrasikan sistem keamanan PHP dengan tampilan portofolio modern.
+## 👥 Tim Kreatif (Rubu & Friends)
+Kami adalah mahasiswa Informatika yang berdedikasi pada *clean code* dan *modern design*.
 
-
-
-[Image of user authentication flow diagram]
-
-
-### 🛰️ Fitur Unggulan (Animated List)
-- 🔒 **Secure Auth:** Login dengan session timeout & CSRF Protection.
-- 🚀 **Turbo Load:** Optimasi database untuk loading dashboard secepat kilat.
-- 💎 **Glass UI:** Tampilan transparan yang elegan dan responsif.
-- 📦 **Smart Cart:** Animasi keranjang belanja yang interaktif (AJAX Based).
-
----
-
-## 🤝 Team Synergy
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rubu&theme=onedark&column=3&margin-w=15&no-bg=true" alt="Trophy" />
-</p>
-
-| Developer | Responsibility | Skill |
-| :--- | :--- | :---: |
-| **Rubu** | Core Backend & Logic | <img src="https://skillicons.dev/icons?i=php,mysql" height="25" /> |
-| **Kawan-Kawan** | Frontend & UI Design | <img src="https://skillicons.dev/icons?i=html,css,js" height="25" /> |
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=rubu&theme=onedark&no-bg=true&column=1" width="300" />
+        <br><b>Lead Architect: Rubu</b>
+      </td>
+      <td align="center">
+         <img src="https://github-readme-stats.vercel.app/api?username=rubu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="350" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 🛠️ Workflow Pengerjaan
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=spring&text=Coding%20Phase&width=800&height=100" width="100%" />
-</p>
+## 📉 Project Roadmap (2026)
+Berikut adalah visualisasi perkembangan fitur kami:
 
-```bash
-# 📅 Milestone 2026
-1. 🗄️ Database Normalization (Done)
-2. 🔑 Secure Login Logic (In Progress)
-3. 🎨 Dashboard Interaction (Coming Soon)
+`Core Engine` ![100%](https://progress-bar.dev/100/?title=Done&color=36BCF7)
+`Security Layer` ![85%](https://progress-bar.dev/85/?title=Testing&color=36BCF7)
+`Portfolio API` ![60%](https://progress-bar.dev/60/?title=Development&color=36BCF7)
+
+
+
+---
+
+## 📁 Struktur Blueprint (Deep Dive)
+```mermaidgraph LR subgraph Frontend
+    A[index.php] --> B[Assets/CSS]
+    end
+    subgraph Backend_Logic
+    C[Core/Auth.php] --> D[Database/MySQL]
+    E[Core/Session.php] --> C
+    end
+    A -- Request --> C
+    C -- Response --> A
