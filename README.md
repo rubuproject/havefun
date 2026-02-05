@@ -125,6 +125,3 @@ Edit `portfolio.php` to add your own:
 
 s for personal or com
 
-
----
-
