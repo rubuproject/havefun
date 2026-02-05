@@ -56,7 +56,6 @@ Berikut adalah visualisasi perkembangan web kami
 
 
 ## 📁 Struktur Blueprint (Deep Dive)
-```mermaidg
     A[index.php] --> B[Assets/CSS]
     end
     subgraph Backend_Logic
