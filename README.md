@@ -20,7 +20,7 @@
 ---
 
 ## 💎 Snapshot Proyek
-Proyek ini menggabungkan dua fungsionalitas utama dalam satu ekosistem web yang *seamless*.
+Proyek ini menggabungkan dua fungsionalitas utama dalam satu ekosistem web 
 
 ### 🔑 Autentikasi (Backend)
 Sistem login yang dibangun dengan keamanan tingkat lanjut untuk mencegah akses ilegal.
